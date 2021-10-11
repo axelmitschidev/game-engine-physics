@@ -1,6 +1,6 @@
-### Game Engine Physics with TypeScript
+# Game Engine Physics with TypeScript
 
-# Commands npm
+### Commands npm
 
   * **npm run build** -> _run webpack build_
 
